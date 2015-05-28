@@ -1,0 +1,194 @@
+{
+  "$xmlns": {
+    "pl1": "http://access.auth.theplatform.com/data/Account/2255753391",
+    "pl2": "http://access.auth.theplatform.com/data/Account/2312945284",
+    "nbcu": "http://xml.nbcuni.com/media/field"
+  },
+  "id": "http://data.media.theplatform.com/media/data/Media/432560195871",
+  "guid": "CAEC024E-EE17-3660-7018-E3F91C27968E",
+  "updated": 1429754280000,
+  "title": "Automation8be5f5302c",
+  "author": "",
+  "description": "",
+  "added": 1429754133000,
+  "ownerId": "http://access.auth.theplatform.com/data/Account/2312945284",
+  "addedByUserId": "https://identity.auth.theplatform.com/idm/data/User/mpx/2344010",
+  "updatedByUserId": "https://identity.auth.theplatform.com/idm/data/User/mpx/2344010",
+  "version": 2,
+  "locked": false,
+  "availableDate": 1429675200000,
+  "expirationDate": 1461211200000,
+  "categories": [
+
+  ],
+  "copyright": "",
+  "copyrightUrl": "",
+  "credits": [
+
+  ],
+  "keywords": "",
+  "ratings": [
+
+  ],
+  "countries": [
+
+  ],
+  "excludeCountries": true,
+  "text": "",
+  "content": [
+    {
+      "audioChannels": 2,
+      "audioSampleRate": 44100,
+      "bitrate": 209261,
+      "checksums": {
+        "md5": "DDB7A52094D2079A27AC44F83CA669E9"
+      },
+      "contentType": "video",
+      "duration": 85.5,
+      "expression": "full",
+      "fileSize": 2236480,
+      "frameRate": 10.0,
+      "format": "MPEG4",
+      "height": 240,
+      "isDefault": false,
+      "language": "en",
+      "sourceTime": 0,
+      "url": "sftp://tvetest.upload.akamai.com/190376/dev/dbtv/video/874/563/DefAutMed.m4v",
+      "width": 320,
+      "id": "http://data.media.theplatform.com/media/data/MediaFile/432560195903",
+      "guid": "rT83lVmVatPE86DdcUpe2DhLfI39Kv2g",
+      "ownerId": "http://access.auth.theplatform.com/data/Account/2312945284",
+      "added": 1429754148000,
+      "updated": 1429754171000,
+      "addedByUserId": "https://identity.auth.theplatform.com/idm/data/User/service/2688840",
+      "updatedByUserId": "https://identity.auth.theplatform.com/idm/data/User/mpx/2344010",
+      "version": 1,
+      "locked": false,
+      "description": "",
+      "title": "DefAutMed.m4v",
+      "allowRelease": true,
+      "assetTypeIds": [
+
+      ],
+      "assetTypes": [
+
+      ],
+      "audioCodec": "AAC LC",
+      "audioSampleSize": 0,
+      "downloadUrl": "",
+      "exists": true,
+      "failoverStreamingUrl": "",
+      "failoverSourceUrl": "",
+      "filePath": "874/563/DefAutMed.m4v",
+      "isProtected": false,
+      "isThumbnail": false,
+      "mediaId": "http://data.media.theplatform.com/media/data/Media/432560195871",
+      "protectionKey": "",
+      "releases": [
+        {
+          "id": "http://data.media.theplatform.com/media/data/Release/432559683871",
+          "guid": "5tfp7pOMeX949RTxkbY_pfy0AS53TyWg",
+          "ownerId": "http://access.auth.theplatform.com/data/Account/2312945284",
+          "added": 1429754171000,
+          "updated": 1429754171000,
+          "addedByUserId": "https://identity.auth.theplatform.com/idm/data/User/mpx/2344010",
+          "updatedByUserId": "https://identity.auth.theplatform.com/idm/data/User/mpx/2344010",
+          "version": 0,
+          "locked": false,
+          "description": "",
+          "approved": true,
+          "delivery": "streaming",
+          "mediaId": "http://data.media.theplatform.com/media/data/Media/432560195871",
+          "fileId": "http://data.media.theplatform.com/media/data/MediaFile/432560195903",
+          "pid": "2xDjATaHd5z9",
+          "parameters": "",
+          "url": "http://link.theplatform.com/s/vCBdGC/2xDjATaHd5z9",
+          "restrictionId": "",
+          "adPolicyId": ""
+        }
+      ],
+      "serverId": "http://data.media.theplatform.com/media/data/Server/11200579859",
+      "sourceMediaFileId": "",
+      "sourceUrl": "DefAutMed.m4v",
+      "storageUrl": "sftp://tvetest.upload.akamai.com/190376/dev/dbtv/video/874/563/DefAutMed.m4v",
+      "streamingUrl": "http://testtve-vh.akamaihd.net/{manifest:none}z/dev/dbtv/video/{slistFilePath}874/563/DefAutMed.m4v{slistFilePath}{manifest:f4m}z/dev/dbtv/video/{slist::true:false}.csmil/manifest.f4m{manifest:m3u}i/dev/dbtv/video/{slist::true:false}.csmil/master.m3u8{manifest}",
+      "transformId": "",
+      "videoCodec": "AVC",
+      "approved": true,
+      "protectionScheme": "",
+      "aspectRatio": 1.33,
+      "previousLocations": [
+
+      ],
+      "secondaryAudio": [
+
+      ],
+      "closedCaptions": false,
+      "displayAspectRatio": "4:3"
+    }
+  ],
+  "thumbnails": [
+
+  ],
+  "adminTags": [
+
+  ],
+  "approved": true,
+  "categoryIds": [
+
+  ],
+  "chapters": [
+
+  ],
+  "link": "",
+  "pubDate": 1429754133000,
+  "titleLocalized": {
+
+  },
+  "descriptionLocalized": {
+
+  },
+  "authorLocalized": {
+
+  },
+  "copyrightLocalized": {
+
+  },
+  "copyrightUrlLocalized": {
+
+  },
+  "keywordsLocalized": {
+
+  },
+  "linkLocalized": {
+
+  },
+  "textLocalized": {
+
+  },
+  "defaultThumbnailUrl": "",
+  "originalOwnerIds": [
+
+  ],
+  "provider": "",
+  "providerId": "",
+  "restrictionId": "",
+  "adPolicyId": "",
+  "originalMediaIds": [
+
+  ],
+  "programId": "",
+  "seriesId": "",
+  "availabilityState": "available",
+  "pid": "2MSmTuxmnxVU",
+  "publicUrl": "http://link.theplatform.com/s/vCBdGC/media/2MSmTuxmnxVU",
+  "pl1$comScore": "",
+  "pl1$entitlement": "free",
+  "pl1$fullEpisode": false,
+  "pl1$suppressVideoAds": false,
+  "pl2$kCustomTextField": "",
+  "nbcu$advertisingGenre": "",
+  "nbcu$authStartDateField": "pubDate",
+  "nbcu$nextAuthWindowActionDate": 0,
+  "nbcu$programmingType": "Undefined"
+}
